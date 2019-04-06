@@ -8,7 +8,8 @@ $("body").append(`
   </linearGradient>
 </svg>
 <style type="text/css">
-body, .session-authentication {background: #31383f; color: #fff}
+@import url('https://fonts.googleapis.com/css?family=Karla');
+body, .session-authentication {background: #31383f; color: #fff; font-family: 'Karla', sans-serif !important;}
 a {color:#fff !important}
 .link-gray-dark {color:#fff !important;text-decoration:underline !important;}
 .text-gray-dark, .note {color:#fff !important;}
