@@ -1,6 +1,6 @@
 {
     "name": "Gitark",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "The most popular dark theme extension for github",
     "manifest_version": 2,
     "icons": { 
