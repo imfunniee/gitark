@@ -2,7 +2,7 @@
 
 *covers most of github, will keep updating it*
 
-# Usage 🤔
+### Usage 🤔
 
 ```
 git clone https://github.com/imfunniee/gitark.git
@@ -28,7 +28,7 @@ That's It, Enjoy 👀🔥
 
 *works only on chrome 🤷‍♀️*
 
-# Preview
+### Preview
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/home.PNG">
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/imfunny.PNG">
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/github.PNG">
