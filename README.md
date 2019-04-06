@@ -5,6 +5,7 @@
 *covers most of github, will keep updating it*
 
 ### Preview
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/home.PNG" alt="home preview">
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/profile.PNG" alt="profile preview">
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/github.PNG" alt="org preview">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/1.PNG">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/2.PNG">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/3.PNG">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/4.PNG">
