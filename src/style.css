@@ -52,6 +52,7 @@ a {color:#fff !important}
 .stats-switcher-viewport {background:#24292e !important;border:0px !important;color:#fff !important;border-radius:3px;}
 .overall-summary, .repository-lang-stats-graph {border:0px !important;border-radius:0px !important;}
 .repository-lang-stats-graph .language-color:not(:first-child) {border:0px !important;}
+.repository-lang-stats-graph {background-color: #31383f !important;}
 .num {color:#fff !important;}
 .commit-tease, .branch-infobar {background:#24292e !important;color:#fff !important;border:0px !important;}
 .js-navigation-item {background-color:#24292e;border:0px !important;}
@@ -59,6 +60,7 @@ a {color:#fff !important}
 table.files tr.navigation-focus td, table.files tr[aria-selected=true] td, .Box-row--focus-gray.navigation-focus {background-color:#272c32 !important;}
 table.files td {border:0px !important;}
 .Box-header {background:#24292e !important; border:0px !important;border-radius:0px;}
+.Box-row--hover-blue:hover {background:#2d333a !important;}
 .overflow-hidden {background:transparent !important;}
 .Box-body {background:#272c32 !important; border:2px solid #272c32 !important;border-radius:3px !important;}
 .markdown-body {background:#272c32 !important;color:#fff !important;border-radius:3px}
