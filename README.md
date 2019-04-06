@@ -6,18 +6,25 @@
 git clone https://github.com/imfunniee/gitark.git
 ```
 
-- Go to chrome://extensions
+```
+Go to chrome://extensions
+```
 
-- Enable Developer Mode
+```
+Enable Developer Mode
+```
 
-- Click on "Load unpacked"
+```
+Click on "Load unpacked"
+```
 
-- Choose the cloned "gitark" Folder
+```
+Choose the cloned "gitark" Folder
+```
 
-- That's It, Enjoy 👀🔥
+That's It, Enjoy 👀🔥
 
-
-> works only on chrome 🤷‍♀️
+*works only on chrome 🤷‍♀️*
 
 
 
