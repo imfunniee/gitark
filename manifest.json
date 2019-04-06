@@ -1,0 +1,20 @@
+{
+    "name": "Gitark",
+    "version": "0.0.1",
+    "description": "The most popular dark theme extension for github",
+    "manifest_version": 2,
+    "icons": { 
+        "16": "assets/icon.png",
+        "48": "assets/icon.png",
+        "128": "assets/icon.png"
+    },
+    "content_scripts" : [
+        {
+            "matches": ["https://github.com/*"],
+            "js": [
+                "jquery.js",
+                "content.js"
+            ]
+        }
+    ]
+}
