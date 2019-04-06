@@ -29,6 +29,6 @@ That's It, Enjoy 👀🔥
 *works only on chrome 🤷‍♀️*
 
 ### Preview
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/home.PNG">
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/imfunny.PNG">
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/github.PNG">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/home.PNG" alt="home preview">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/profile.PNG" alt="profile preview">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/github.PNG" alt="org preview">
