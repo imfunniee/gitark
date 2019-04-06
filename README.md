@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/top.png">
 
-### Download 
-<a href="https://chrome.google.com/webstore/detail/gitark/pajmlahbnmcmbfdmmcacaojpedjcdjgm">Chrome Webs Store</a>
+### Add it Chrome from <a href="https://chrome.google.com/webstore/detail/gitark/pajmlahbnmcmbfdmmcacaojpedjcdjgm">Here</a>
 
 *covers most of github, will keep updating it*
 
