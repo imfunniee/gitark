@@ -4,10 +4,10 @@
 # Preview
 
 ## Home
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/home.png">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/home.PNG">
 
 ## Profile
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/imfunny.png">
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/imfunny.PNG">
 
-## Org
-<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/github.png">
+## Organisation
+<img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/github.PNG">
