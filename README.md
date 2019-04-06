@@ -1,2 +1,3 @@
-# gitark
-dark theme for github
+# Gitark
+
+Dark theme for Github
