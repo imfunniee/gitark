@@ -16,10 +16,6 @@
       "package.json"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trs/gitark.git"
-  },
   "license": "GNU",
   "devDependencies": {
     "web-ext": "^3.0.0"
