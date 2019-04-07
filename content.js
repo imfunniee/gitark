@@ -26,7 +26,8 @@ a {color:#fff !important}
 .profile-rollup-summarized {border:0px}
 .ws-normal {color:#fff !important}
 .user-profile-nav {background:#24292e;border:0px}
-.btn {background:#1d2125 !important;border:0px !important;color:#fff !important;}
+.btn, .commit-sha, .blankslate code {background:#1d2125 !important;border:0px !important;color:#fff !important;}
+.ellipsis-expander {background:transparent !important;border:0px !important;color:#fff !important;}
 .social-count {background:#24292e !important;border:0px !important;color:#fff !important;}
 .activity-overview-box {border-radius:5px;margin-top:2vh}
 .filter-list {background:#31383f}
@@ -156,6 +157,52 @@ table.capped-list tr {background:#272c32 !important;color:#fff !important;border
 .files tr td, .repo-file-upload-target h2, .repo-file-upload-target {color:#fff !important;}
 .repo-file-upload-progress, .repo-file-upload-meter, .branch-name {background:#24292e !important;color:#fff !important;border:0px !important;}
 .markdown-body img {background:transparent !important;}
+.commits-list-item.navigation-focus, .commits-list-item[aria-selected=true] {background:#272c32 !important;}
+.full-commit {background:#24292e !important;border:0px !important;color:#fff !important;}
+.full-commit span {color:#fff !important;}
+.full-commit .commit-meta {background:#272c32 !important;border:0px !important;color:#fff !important;}
+.full-commit p.commit-title {color:#fff !important;}
+.signed-commit-badge.verified {background:#3FDE64;color:#fff !important; border-color:#3FDE64 !important;}
+.commit-group-title .octicon-git-commit {background:#272c32 !important;}
+.blob-num-expandable, .blob-num-hunk {background:#24292e !important;}
+.blob-code-hunk {background:#272c32 !important;}
+.thread-subscription-status {background:#272c32 !important;border:0px !important;}
+.block-diff-added {background:#3FDE64 !important;}
+.block-diff-deleted {background:#FF3F3C !important;}
+.block-diff-neutral {background:#272c32 !important;}
+.blob-num-addition {background:#3FDE64 !important;}
+.blob-code-addition {background:#6AD783 !important;}
+.blob-num-deletion {background:#FF3F3C !important;}
+.blob-code-deletion {background:#FF7371 !important;}
+.blob-code-deletion .x {background:#FF3F3C !important}
+.blob-code-addition .x {background:#3FDE64 !important}
+.text-red {color:#FF3F3C !important;}
+.text-green {color:#6AD783 !important;}
+.diff-table, .data {border:0px !important;border-color:transparent !important;}
+.blob-expanded .blob-code, .blob-expanded .blob-num {background:#272c32 !important;border:0px !important;}
+.timeline-comment {background:#31383f !important;border:0px !important;}
+.timeline-comment-wrapper>.timeline-comment:after, .timeline-comment-wrapper>.timeline-comment:before, .timeline-new-comment .timeline-comment:after, .timeline-new-comment .timeline-comment:before {display:none !important;}
+.comment-reactions.has-reactions {border:0px !important;}
+.reaction-summary-item {border:0px !important;background:#24292e !important;color: #fff !important;}
+.tint-box, .capped-card-content {border:0px !important;background:#24292e !important;color: #fff !important;}
+.diffstat-summary {color:#fff !important;}
+.diffstat-summary strong, .diffstat-summary span {color:#fff !important;}
+.diffstat-summary a {text-decoration:underline;}
+.summary-stats li {border:0px !important;}
+.summary-stats li a:hover {background:#272c32 !important;}
+.discussion-sidebar-item, .discussion-sidebar-heading {color:#fff !important;}
+.reason {padding:5px !important;}
+.form-select:focus {outline:none !important;box-shadow:none !important;}
+.form-control:focus {outline:none !important;box-shadow:none !important;}
+.tabnav {border:0px !important;}
+.tabnav-tab.selected {background:#272c32 !important; padding:3px 8px !important;}
+.network-tree {content:url("https://raw.githubusercontent.com/imfunniee/gitark/master/assets/gitark-link.png");}
+.network .current-repository {background:#272c32 !important;padding:3px 8px !important;}
+.btn-link, .commit-group-title, .text-gray-light, .gh-header-number {color:#fff !important;}
+.signed-commit-header {background:#272c32 !important;border:0px !important;}
+.topic-tag-action {background:#24292e !important;border:0px !important;}
+.delete-topic-button, .delete-topic-link {background:#272c32 !important;border:0px !important;color:#fff !important;}
+.gh-header .gh-header-sticky.is-stuck+.gh-header-shadow {background:#24292e !important;border:0px !important;color:#fff !important;box-shadow:0px 0px 20px rgba(0,0,0,0.1) !important;}
 </style>
 `)
 
