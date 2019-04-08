@@ -1,0 +1,23 @@
+{
+  "name": "gitark",
+  "scripts": {
+    "dev": "web-ext run",
+    "build": "web-ext build"
+  },
+  "webExt": {
+    "build": {
+      "overwriteDest": true
+    },
+    "run": {
+      "startUrl": ["github.com"]
+    },
+    "ignoreFiles": [
+      "package-lock.json",
+      "package.json"
+    ]
+  },
+  "license": "GNU",
+  "devDependencies": {
+    "web-ext": "^3.0.0"
+  }
+}
