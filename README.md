@@ -13,8 +13,4 @@
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/3.png">
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/4.png">
 
-### ToDo
-
-make syntaxing for different langugues
-
-### *covers most of github, will keep updating it*
+### *covers most of github*
