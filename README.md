@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/top.png">
 
-### <a href="https://chrome.google.com/webstore/detail/gitark/pajmlahbnmcmbfdmmcacaojpedjcdjgm">Available in Chrome Store</a>
-
 ### Download
 
 - <a href="https://chrome.google.com/webstore/detail/gitark/pajmlahbnmcmbfdmmcacaojpedjcdjgm">Chrome Extension</a>
