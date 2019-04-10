@@ -15,7 +15,7 @@ a {color:#fff !important}
 .profile-rollup-summarized {border:0px}
 .ws-normal {color:#fff !important}
 .user-profile-nav {background:#24292e;border:0px}
-.btn, .commit-sha, .blankslate code, .commit-ref {background:#1d2125 !important;border:0px !important;color:#fff !important;}
+.btn, .commit-sha, .blankslate code, .commit-ref, .Label--gray {background:#1d2125 !important;border:0px !important;color:#fff !important;}
 .ellipsis-expander {background:transparent !important;border:0px !important;color:#fff !important;}
 .social-count {background:#24292e !important;border:0px !important;color:#fff !important;}
 .activity-overview-box {border-radius:5px;margin-top:2vh}
@@ -63,8 +63,9 @@ table.files td {border:0px !important;}
 .Box-row--hover-blue:hover {background:#2d333a !important;}
 .overflow-hidden {background:transparent !important;}
 .Box-body {background:#272c32 !important; border:2px solid #272c32 !important;border-radius:3px !important;}
-.markdown-body {background:#272c32 !important;color:#fff !important;border-radius:3px}
-.markdown-body pre {background:#31383f !important;color:#fff !important;}
+.markdown-body {background:#272c32 !important;color:#fff !important;border-radius:3px; font-family: 'Karla', sans-serif !important;padding:3px 4px !important}
+.markdown-body pre {background:#31383f !important;color:#fff !important;font-family: 'Karla', sans-serif !important;}
+.markdown-body pre code {font-family: 'Karla', sans-serif !important;}
 .blob-code-inner,.blob-num, .blob-code-inner span, .final-path, .follow-list-info, .Counter {color:#fff !important;}
 ::-webkit-scrollbar {width:5px;height:5px;}
 ::-webkit-scrollbar-track {background:#fff;}
@@ -105,6 +106,7 @@ table.files td {border:0px !important;}
 .menu {background-color:#24292e; color:#fff; border:0px;}
 .menu > .menu-item:hover {background-color:#272c32 !important;}
 .menu-item {border:0px !important;}
+.menu-item.selected {background:#272c32 !important;}
 .timeline-comment {border:0px !important;}
 .discussion-timeline-actions {background:transparent;border:0px;}
 .AvatarStack-body {background:transparent !important;}
@@ -207,3 +209,11 @@ table.capped-list tr {background:#272c32 !important;color:#fff !important;border
 .discussion-item-icon {color:#fff !important;border:2px solid transparent !important;}
 .discussion-item-header {color:#fff !important;}
 .pl-c{color:#959da5!important}.pl-c1,.pl-s .pl-v{color:#c8e1ff!important}.pl-e,.pl-en{color:#b392f0!important}.pl-s .pl-s1,.pl-smi{color:#f6f8fa!important}.pl-ent{color:#7bcc72!important}.pl-k{color:#ea4a5a!important}.pl-pds,.pl-s,.pl-s .pl-pse .pl-s1,.pl-sr,.pl-sr .pl-cce,.pl-sr .pl-sra,.pl-sr .pl-sre{color:#79b8ff!important}.pl-ml,.pl-v{color:#fb8532!important}.pl-bu{color:#d73a49!important}.pl-ii{color:#fafbfc!important;background-color:#d73a49!important}.pl-c2{color:#fafbfc;background-color:#d73a49!important}.pl-c2::before{content:"^M"!important}.pl-sr .pl-cce{font-weight:700!important;color:#7bcc72!important}.pl-mh,.pl-mh .pl-en,.pl-ms{font-weight:700!important;color:#0366d6!important}.pl-mi{font-style:italic!important;color:#f6f8fa!important}.pl-mb{font-weight:700!important;color:#f6f8fa!important}.pl-md{color:#b31d28!important;background-color:#ffeef0!important}.pl-mi1{color:#176f2c!important;background-color:#f0fff4!important}.pl-mc{color:#b08800!important;background-color:#fffdef!important}.pl-mi2{color:#2f363d!important;background-color:#959da5!important}.pl-mdr{font-weight:700!important;color:#b392f0!important}.pl-mo{color:#0366d6!important}.pl-ba{color:#ffeef0!important}.pl-sg{color:#6a737d!important}.pl-corl{text-decoration:underline!important;color:#79b8ff!important}#readme td{background-color:#272c32!important;border-color:#31383f!important;border-width:.15em!important}#readme td a{font-weight:600!important}#readme .markdown-body.entry-content.p-5 h2{border-color:#31383f;border-width:.09em!important}#readme .markdown-body.entry-content.p-5 h1{border-color:#31383f;border-width:.09em!important}
+.flash {background:#1d2125 !important; color:#fff !important; border:0px !important;}
+.markdown-body table tr {background:#24292e !important;}
+.markdown-body table th {border-color:#31383f !important;}
+mark {color:#000 !important;}
+.notification-thread-subscription:hover {background:#272c32 !important;}
+.issue-card {background:#272c32 !important;}
+.project-header {padding-bottom:15px !important;}
+.follow-list {padding-top:15px !important;}

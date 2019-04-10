@@ -9,7 +9,9 @@
       "overwriteDest": true
     },
     "run": {
-      "startUrl": ["github.com"]
+      "startUrl": [
+        "github.com"
+      ]
     },
     "ignoreFiles": [
       "package-lock.json",
