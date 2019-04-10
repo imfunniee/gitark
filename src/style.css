@@ -1,6 +1,6 @@
 @font-face {
     font-family: Karla;
-    src: url(assets/font/Karla-Regular.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/imfunniee/gitark/assets/font/Karla-Regular.ttf);
 }
 
 body, .session-authentication {background: #31383f !important; color: #fff !important; font-family: 'Karla', sans-serif !important;}
