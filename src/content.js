@@ -24,7 +24,7 @@ ready(function() {
     var style = document.createElement("link")
     style.type = "text/css";
     style.rel = "stylesheet";
-    style.href = "https://raw.githubusercontent.com/imfunniee/imfunniee.github.io/master/gitark/style.css";
+    style.href = "https://cdn.jsdelivr.net/gh/imfunniee/gitark/src/0.0.8/style.css";
 
     // create svg for repo activity graph thingy
 
