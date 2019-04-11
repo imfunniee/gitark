@@ -67,7 +67,6 @@ table.files td {border:0px !important;}
 .markdown-body pre {background:#31383f !important;color:#fff !important;font-family: 'Karla', sans-serif !important;}
 .markdown-body pre code {font-family: 'Karla', sans-serif !important;}
 .final-path, .follow-list-info {color:#fff;}
-.blob-code-inner span {color:#fff;}
 ::-webkit-scrollbar {width:5px;height:5px;}
 ::-webkit-scrollbar-track {background:#fff;}
 ::-webkit-scrollbar-thumb {background:#24292e;}
