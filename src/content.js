@@ -24,7 +24,7 @@ ready(function() {
     var style = document.createElement("link")
     style.type = "text/css";
     style.rel = "stylesheet";
-    style.href = "https://cdn.jsdelivr.net/gh/imfunniee/gitark@latest/src/style.css";
+    style.href = "https://cdn.jsdelivr.net/gh/imfunniee/gitark/src/style.css";
 
     // create svg for repo activity graph thingy
 
