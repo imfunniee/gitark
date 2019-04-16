@@ -1,4 +1,4 @@
-#### 📝 note : make sure your extenstion is updated to latest version before creating a PR for potentianl bug 😄
+#### 📝 note : make sure your extenstion is updated to latest version before creating a PR for potential bug 😄
 ##### ⬆ current version : 0.0.8
 
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/top.png">
