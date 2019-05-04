@@ -10,6 +10,8 @@
 | [Download for Chrome](https://chrome.google.com/webstore/detail/gitark/pajmlahbnmcmbfdmmcacaojpedjcdjgm)                                                                                                          | [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitark/)                                                                                                                                |
 
 
+### a note for firefox users using addons https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/
+
 ### 👀 Preview
 
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/preview/1.png">
