@@ -8,6 +8,12 @@ function ready(eventHandler) {
 
 ready(function() {
 
+    // meta tag for loading font
+
+    var meta = document.createElement("meta")
+    meta.httpEquiv = "Content-Security-Policy";
+    meta.content = "font-src https://fonts.googleapis.com/ https://fonts.gstatic.com/ 'unsafe-inline' 'unsafe-eval'; style-src  https://cdn.jsdelivr.net/ https://github.githubassets.com/ 'unsafe-inline' 'unsafe-eval';";
+
     // import font
 
     var css = "@import url('https://fonts.googleapis.com/css?family=Karla');";
@@ -24,7 +30,7 @@ ready(function() {
     var style = document.createElement("link")
     style.type = "text/css";
     style.rel = "stylesheet";
-    style.href = "https://cdn.jsdelivr.net/gh/imfunniee/gitark/src/0.0.8/style.css";
+    style.href = "https://cdn.jsdelivr.net/gh/imfunniee/gitark/src/0.0.9/style.css";
 
     // create svg for repo activity graph thingy
 
@@ -63,6 +69,7 @@ ready(function() {
     // append everything
 
     document.getElementsByTagName('body')[0].appendChild(svg);
+    document.getElementsByTagName('head')[0].appendChild(meta);
     document.getElementsByTagName('head')[0].appendChild(font);
     document.getElementsByTagName('head')[0].appendChild(style);
 
