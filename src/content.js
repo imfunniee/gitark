@@ -25,13 +25,6 @@ ready(function() {
         font.appendChild(document.createTextNode(css));
     }
 
-    // create style link
-
-    var style = document.createElement("link")
-    style.type = "text/css";
-    style.rel = "stylesheet";
-    style.href = "https://cdn.jsdelivr.net/gh/imfunniee/gitark/src/0.0.9/style.css";
-
     // create svg for repo activity graph thingy
 
     var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
@@ -71,7 +64,6 @@ ready(function() {
     document.getElementsByTagName('body')[0].appendChild(svg);
     document.getElementsByTagName('head')[0].appendChild(meta);
     document.getElementsByTagName('head')[0].appendChild(font);
-    document.getElementsByTagName('head')[0].appendChild(style);
 
     const barElements = document.getElementsByClassName('progress-bar');
     if (barElements.length != 0){

@@ -12,8 +12,10 @@
     },
     "content_scripts" : [
         {
-            "matches": ["https://github.com/*"],
-            "js": ["src/content.js"]
+          "css": ["src/style.css"],
+          "matches": ["https://github.com/*"],
+          "js": ["src/content.js"],
+          "run_at" : "document_start"
         }
     ]
 }
