@@ -244,3 +244,5 @@ mark {color:#7d7d7d !important;}
 #search-results-container {background:#272c32 !important;}
 .search-result-intro .ais-Highlight-highlighted {border-color:#7d7d7d !important;}
 .lead-mktg p {color:#7d7d7d !important;}
+.dashboard .js-all-activity-header + div {background: #24292e !important; border-color: #7d7d7d !important;}
+.related-issue-item.navigation-focus {background-color: #272c32 !important;}
