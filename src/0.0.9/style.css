@@ -1,5 +1,5 @@
 body, .session-authentication {background: #31383f !important; color: #fff !important; font-family: 'Karla', sans-serif !important;}
-a {color:#fff !important}
+a {color:#fff !important;}
 .link-gray-dark {color:#fff !important;text-decoration:none !important;}
 .btn-link:hover {color:#fff !important; text-decoration:underline !important;}
 .text-gray-dark, .note {color:#dfdfdf !important;}
@@ -152,6 +152,7 @@ table.capped-list tr {background:#272c32 !important;color:#fff !important;border
 .files tr td, .repo-file-upload-target h2, .repo-file-upload-target {color:#fff !important;}
 .repo-file-upload-progress, .repo-file-upload-meter, .branch-name {background:#24292e !important;color:#fff !important;border:0px !important;}
 .markdown-body img {background:transparent !important;}
+.markdown-body a {text-decoration: underline !important;}
 .commits-list-item.navigation-focus, .commits-list-item[aria-selected=true] {background:#272c32 !important;}
 .full-commit {background:#24292e !important;border:0px !important;color:#fff !important;}
 .full-commit span {color:#fff !important;}
