@@ -1,19 +1,19 @@
 {
     "name": "Gitark",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "short_name": "Gitark",
     "author": "imfunny and community",
-    "description": "The most popular dark theme extension for github",
+    "description": "the most popular dark theme extension for github",
     "manifest_version": 2,
-    "icons": { 
-        "16": "assets/icon3.png",
-        "48": "assets/icon2.png",
-        "128": "assets/icon1.png"
+    "icons": {
+        "16": "./assets/icons/icon3.png",
+        "48": "./assets/icons/icon2.png",
+        "128": "./assets/icons/icon1.png"
     },
-    "content_scripts" : [
-        {
-            "matches": ["https://github.com/*"],
-            "js": ["src/content.js"]
-        }
-    ]
+    "content_scripts": [{
+        "css": ["src/style.css"],
+        "matches": ["https://github.com/*"],
+        "js": ["src/content.js"],
+        "run_at": "document_start"
+    }]
 }
