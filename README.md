@@ -2,7 +2,7 @@
 
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pajmlahbnmcmbfdmmcacaojpedjcdjgm.svg?label=Users) ![Mozilla Add-on](https://img.shields.io/amo/v/gitark.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/pajmlahbnmcmbfdmmcacaojpedjcdjgm.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/imfunniee/gitark.svg)
 
-### Download
+### Download v0.1.0
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
