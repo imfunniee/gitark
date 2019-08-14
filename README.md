@@ -8,6 +8,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Download for Chrome](https://chrome.google.com/webstore/detail/gitark/pajmlahbnmcmbfdmmcacaojpedjcdjgm)                                                                                                          | [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitark/)                                                                                                                                |
 
+> google won't let someone publish a newer version without payment & i'm not paying them for an extension. you can simply download the files and use gitark as an unpacked ext. inside chrome.
 
 ### Preview
 
