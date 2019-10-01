@@ -270,9 +270,11 @@ body .overflow-hidden > .container-xl {margin:2vh auto !important;}
 body .user-status-container-border-busy {background-color: #fff18a !important; color: #1c1f21 !important; border:0px !important;}
 body .user-status-message-wrapper > div {color: #5c5c5c !important;font-weight:bold !important}
 body .sidebar-notifications .thread-subscription-status {padding:5px 4px !important; background: transparent !important; margin-bottom: 1vh;}
-body .previewable-comment-form, .write-content {padding:2px 4px !important;padding-top:0px !important;border-radius:2px !important;background: #24292e !important; margin-bottom: 1vh;}
+body .previewable-comment-form, .write-content {padding:2px 4px !important;padding-top:0px !important;border-radius:2px !important;background: rgb(39, 44, 50) !important; margin-bottom: 1vh;}
 body .discussion-item+.discussion-item, .discussion-item-review {border:0px !important;}
 body .TimelineItem-body {color:rgb(240, 240, 240) !important;}
 body .TimelineItem:before {background-color:rgb(39, 44, 50) !important;}
 body .TimelineItem-badge {background-color:rgb(39, 44, 50) !important;border-color:rgb(49, 56, 63) !important;}
 body .IssueLabel a {color:rgb(36, 41, 46) !important;}
+body .tabnav-tab.selected, body .tabnav-tab[aria-selected=true] {background-color:rgb(39, 44, 50) !important; border:none;}
+body .tabnav-tab:focus, body .tabnav-tab:hover {text-decoration: none !important;}
