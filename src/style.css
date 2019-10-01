@@ -157,7 +157,7 @@ body .full-commit span {color:rgb(250, 250, 250) !important;}
 body .full-commit .commit-meta {background:#272c32 !important;border:0px !important;color:rgb(250, 250, 250) !important;}
 body .full-commit p.commit-title {color:rgb(250, 250, 250) !important;}
 body .signed-commit-badge.verified {background:#3FDE64;color:rgb(250, 250, 250) !important; border-color:#3FDE64 !important;}
-body .commit-group-title .octicon-git-commit {background:#272c32 !important;}
+body .commit-group-title .octicon-git-commit {background: #31383f !important;}
 body .blob-num-expandable, .blob-num-hunk {background:#24292e !important;}
 body .blob-code-hunk {background:#272c32 !important;}
 body .thread-subscription-status {background:#272c32 !important;border:0px !important;}
