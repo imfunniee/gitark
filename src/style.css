@@ -278,3 +278,9 @@ body .TimelineItem-badge {background-color:rgb(39, 44, 50) !important;border-col
 body .IssueLabel a, body a.IssueLabel, body a.IssueLabel--big {color:rgb(36, 41, 46) !important;}
 body .tabnav-tab.selected, body .tabnav-tab[aria-selected=true] {background-color:rgb(39, 44, 50) !important; border:none;}
 body .tabnav-tab:focus, body .tabnav-tab:hover {text-decoration: none !important;}
+body .RecentBranches a {color: #735c0f !important;}
+body .RecentBranches .octicon > path {fill: #735c0f !important;}
+body .RecentBranches a.btn {color: rgb(250, 250, 250) !important;}
+body .RecentBranches a.btn .octicon > path {fill: rgb(250, 250, 250) !important;}
+body .Box-row--gray {background-color: rgb(45, 51, 58); border-top: none;}
+
