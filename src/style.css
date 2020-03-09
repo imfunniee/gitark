@@ -277,7 +277,7 @@ body .TimelineItem:before {background-color:rgb(39, 44, 50) !important;}
 body .TimelineItem-badge {background-color:rgb(39, 44, 50) !important;border-color:rgb(49, 56, 63) !important;}
 body .TimelineItem-break {background-color:rgb(49, 56, 63); border-top-color: rgb(39, 44, 50);}
 body .IssueLabel a, body a.IssueLabel, body a.IssueLabel--big {color:rgb(36, 41, 46) !important;}
-body .tabnav-tab.selected, body .tabnav-tab[aria-selected=true] {background-color:rgb(39, 44, 50) !important; border:none;}
+body .tabnav-tab.selected, body .tabnav-tab[aria-selected=true], body .tabnav-tab[aria-current] {background-color:rgb(39, 44, 50) !important; border:none;}
 body .tabnav-tab:focus, body .tabnav-tab:hover {text-decoration: none !important;}
 body .RecentBranches a {color: #735c0f !important;}
 body .RecentBranches .octicon > path {fill: #735c0f !important;}
