@@ -91,7 +91,7 @@ body .ScreenshotCarousel-navitem {border:0px !important;background-color:#24292e
 body .ScreenshotCarousel-navitem.selected {border:0px !important;background-color:#1c1f21 !important;}
 body .border-gray-light {border:0px !important;background:transparent !important;}
 body .position-relative > .position-absolute {background:transparent !important;}
-body .position-relative {background:transparent}
+body .position-relative {background-color:transparent}
 body .Story, .topic-box {background-color:#24292e !important;border-radius:5px !important;margin-right:10px;}
 body .pagination span, .pagination a {background-color:#24292e !important;border:0px !important;}
 body .pagination .current {background-color:#272c32 !important;border:0px !important;}
