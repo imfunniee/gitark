@@ -73,18 +73,21 @@ body ::-webkit-scrollbar {width:5px;height:5px;}
 body ::-webkit-scrollbar-track {background:rgb(250, 250, 250);}
 body ::-webkit-scrollbar-thumb {background:#24292e;}
 body .tabnav {margin-top:4vh !important;}
-body .select-menu-modal {background:#24292e !important;color:rgb(250, 250, 250) !important;}
-body .select-menu-header {background:#1c1f21 !important;border:0px !important;color:rgb(250, 250, 250);}
+body .SelectMenu-blankslate, body .SelectMenu-loading, body .SelectMenu-message {background-color:transparent !important;}
+body .SelectMenu-modal {background:#24292e !important;color:rgb(250, 250, 250) !important;border:0 !important;}
+body .SelectMenu-header {background:#1c1f21 !important;border:0px !important;color:rgb(250, 250, 250);}
+body .SelectMenu-filter {border:0px !important}
 body .menu-heading {background:#1d2125 !important;border:0px !important;color:rgb(250, 250, 250);}
-body .select-menu-title {color:rgb(250, 250, 250) !important;border:0px !important}
-body .select-menu-item {background:#24292e !important;color:rgb(250, 250, 250) !important;border:0px !important;}
-body .select-menu-item:hover {background:#272c32 !important;}
+body .SelectMenu-title {color:rgb(250, 250, 250) !important;border:0px !important}
+body .SelectMenu-list {border:0px !important;background-color: transparent !important;}
+body .SelectMenu-item {background:#24292e !important;color:rgb(250, 250, 250) !important;border:0px !important;}
+body .SelectMenu-item:hover {background:#272c32 !important;}
 body .d-inline-block svg rect {fill: url(#black) #272c32 !important;}
 body .emoji-picker-emoji-width {background-color:#24292e !important;border-radius:0px !important;}
 body .blankslate {background:#24292e !important;border:0px !important;}
 body .protip code {background:#24292e !important;}
 body .js-selected-navigation-item {background:transparent !important;border:0px !important;}
-body .select-menu-text-filter {background:#1c1f21 !important;border:0px !important;}
+body .SelectMenu-text-filter {background:#1c1f21 !important;border:0px !important;}
 body .flex-auto h4, .text-small span, .text-small {color:rgb(250, 250, 250) !important;}
 body .ScreenshotCarousel {border:0px !important;}
 body .ScreenshotCarousel-navitem {border:0px !important;background-color:#24292e !important;}
@@ -97,7 +100,7 @@ body .pagination span, .pagination a {background-color:#24292e !important;border
 body .pagination .current {background-color:#272c32 !important;border:0px !important;}
 body .bg-gray-light {background-color:#31383f !important;}
 body .user-status-container {background:#24292e !important;border-radius:0px 0px 5px 5px;border:0px !important}
-body .user-status-container h3 {background:transparent;border:0px !important;} 
+body .user-status-container h3 {background:transparent;border:0px !important;}
 body .repository-lang-stats-numbers li a {color:rgb(250, 250, 250) !important;}
 body .lang {color:rgb(250, 250, 250) !important;}
 body .gh-header {background:transparent !important;border-radius:5px;}
@@ -123,9 +126,10 @@ body .top-domains-icon {background:rgb(250, 250, 250);}
 body .Box-row {border:0px !important;}
 body .table-list-header {background:#272c32 !important;border:0px !important;}
 body .table-list, .table-list-cell {border:0px !important;}
-body .select-menu-tabs {background:#1c1f21 !important;padding-top:10px;border:0px !important}
-body .select-menu-tab-nav {border:0px !important;color:rgb(250, 250, 250) !important;}
-body .select-menu-tabs .select-menu-tab-nav[aria-selected=true] {background:#24292e  !important;color:rgb(250, 250, 250) !important;}
+body .SelectMenu-tabs {background:#1c1f21 !important;padding-top:10px;border:0px !important}
+body .SelectMenu-tab {border:0px !important;color:rgb(250, 250, 250) !important;box-shadow:none !important;}
+body .SelectMenu-tab[aria-selected=true] {background:#24292e  !important;color:rgb(250, 250, 250) !important;}
+body .SelectMenu-tab:not([aria-selected=true]):hover {background:transparent !important;}
 body .project-header {background:#31383f !important;}
 body .member-suggestion {background:#24292e !important;color:rgb(250, 250, 250) !important;}
 body .member-suggestion:hover {background:#272c32 !important;}
