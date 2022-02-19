@@ -1,3 +1,5 @@
+## archived github dark is a thing now
+
 <img src="https://raw.githubusercontent.com/imfunniee/gitark/master/assets/top.png">
 
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/pajmlahbnmcmbfdmmcacaojpedjcdjgm.svg?label=Users) ![Mozilla Add-on](https://img.shields.io/amo/v/gitark.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/pajmlahbnmcmbfdmmcacaojpedjcdjgm.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/imfunniee/gitark.svg)
